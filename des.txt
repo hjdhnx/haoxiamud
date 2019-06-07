@@ -1,0 +1,5 @@
+it's a gamehelper for lunjianmud by daozhang
+https://raw.githack.com/hjdhnx/haoxiamud/master/uploads/dzlunjian/6.x/6.7/dzlunjian6.7.user.js
+
+
+https://raw.githack.com/hjdhnx/haoxiamud/master/uploads/legend/6.7/dzlunjian6.7.user.js
